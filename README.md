@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hemanth Jayaram</h1>
 <h3 align="center">Final Year AI Student | Projects that Solve Real Problems</h3>
 
-- 🔭 I’m currently working on [Intelligent News Article Summarizer](https://github.com/hemanth-jayaram/Intelligent-News-Article-Summarizer.git)
+- 🔭 I’m currently working on [Universal Article Scraper](https://github.com/hemanth-jayaram/universal-article-scraper.git)
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/hemanth-jayaram](https://github.com/hemanth-jayaram)
 
