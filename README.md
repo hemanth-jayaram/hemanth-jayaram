@@ -9,7 +9,6 @@
 - 📫 How to reach me **hemanthjayaram5566@gmail.com**
 
 - 📄 Know about my experiences [https://hemanth-jayaram.github.io/hemanth-resume.pdf](https://hemanth-jayaram.github.io/resume123/hemanth_resume.pdf)
-)])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
